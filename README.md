@@ -1,11 +1,4 @@
-# GinGer at SemEval-2025 Task 11: Emotion Detection in Low-Resource Languages with Fine-Tuned Transformers and LoRA
-
-Official implementation for our paper:  
-**"GinGer at SemEval-2025 Task 11: Leveraging Fine-Tuned Transformer Models and LoRA for Sentiment Analysis in Low-Resource Languages"**  
-*Aylin Naebzadeh, Fatemeh Askari*  
-Proceedings of SemEval-2025, ACL 2025
-
----
+# Emotion Detection in Low-Resource Languages with Fine-Tuned Transformers and LoRA
 
 ## Overview
 
