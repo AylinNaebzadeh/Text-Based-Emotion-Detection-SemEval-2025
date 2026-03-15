@@ -100,10 +100,3 @@ If you use this code, please cite our paper:
   year      = {2025}
 }
 ```
-
----
-
-## Authors
-
-- **Aylin Naebzadeh** — Iran University of Science and Technology · [aylin.naebzadeh@gmail.com](mailto:aylin.naebzadeh@gmail.com)
-- **Fatemeh Askari** — Sharif University of Technology · [fatemeh.askari@ce.sharif.edu](mailto:fatemeh.askari@ce.sharif.edu)
