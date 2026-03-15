@@ -6,7 +6,9 @@ This repository contains the code for our participation in **SemEval-2025 Task 1
 
 - **Track A** — Multi-label emotion detection (joy, sadness, fear, anger, surprise, disgust)  
 - **Track B** — Emotion intensity prediction (ordinal scale 0–3)
-
+<p align="center">
+  <img src="assets/tracka_b_overview.png" alt="Tasks Ovweview" width="900"/>
+</p>
 We achieved **9th place** in the Arabic Algerian track (ARQ) among 40 competing teams.
 
 Our approach combines **transformer-based models** with **Parameter-Efficient Fine-Tuning (PEFT)** via **LoRA (Low-Rank Adaptation)** to handle the challenges of low-resource language settings.
@@ -71,14 +73,9 @@ Our approach combines **transformer-based models** with **Parameter-Efficient Fi
 - **Post-processing:** Floor clipping to enforce predictions in [0, 3]
 - **Evaluation metric:** Pearson Correlation
 
-### Hyperparameters
-
-| Parameter | Value |
-|-----------|-------|
-| Learning rate | 1e-5 |
-| Epochs | 100 |
-| Batch size | 8 |
-| Weight decay | 0.01 |
+<p align="center">
+  <img src="assets/method_overview_a_b.png" alt="Methodology Overview" width="900"/>
+</p>
 
 ---
 
